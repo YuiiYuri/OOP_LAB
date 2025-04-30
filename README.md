@@ -8,6 +8,9 @@
 ### 🔹 Week 3
 📁 Branch: [`WEEK_3`](https://github.com/YuiiYuri/OOP_LAB/tree/release/WEEK_3/WEEK_3)
 
+### 🔹 Week 4
+📁 Branch: [`WEEK_4`](https://github.com/YuiiYuri/OOP_LAB/tree/release/WEEK_04)
+
 ---
 
 ## 📝 Ghi chú
